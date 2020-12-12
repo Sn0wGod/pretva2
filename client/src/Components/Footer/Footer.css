@@ -1,0 +1,19 @@
+.footer{
+    color: white;
+    background-color:  rgb(0, 71, 71);
+    padding: 30px 0px;
+}
+
+@media only screen and (max-width: 800px){
+    .footer{
+        text-align: center;
+    }
+    .facebook{
+        margin-left: 40px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .facebook{
+        margin-left: 90px;
+    }
+}
